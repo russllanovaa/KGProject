@@ -8,14 +8,12 @@ using UnityEngine.UI;
 
 public class NextLevel : MonoBehaviour
 {
-    // Статичне поле для зберігання єдиного екземпляра класу
     private static NextLevel _instance;
 
     public static NextLevel Instance
     {
         get
         {
-
             if (_instance == null)
             {
                 _instance = FindObjectOfType<NextLevel>();
@@ -30,30 +28,36 @@ public class NextLevel : MonoBehaviour
         }
     }
 
-
     [SerializeField] private int _nextSceneBuildIndex;
 
     private void Awake()
     {
-
         if (_instance != null && _instance != this)
         {
-
             Destroy(gameObject);
             return;
         }
         _instance = this;
-
     }
 
     public void UnlockNewLevel()
     {
-            Debug.Log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa");
-            PlayerData.Instance.SetAvailableLevel(2);
             PlayerPrefs.SetInt("ReachedIndex", SceneManager.GetActiveScene().buildIndex + 1);
             PlayerPrefs.SetInt("UnlockedLevel", PlayerPrefs.GetInt("UnlockedLevel", 1) + 1);
             PlayerPrefs.Save();
+        
+    }
 
+    // Ось цей метод додає перемикання на сцену
+    public void LoadNextLevel()
+    {
+        if (_nextSceneBuildIndex >= 0 && _nextSceneBuildIndex < SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(_nextSceneBuildIndex);
+        }
+        else
+        {
+            Debug.LogWarning("Індекс сцени некоректний або сцена не додана до Build Settings.");
+        }
     }
 }
-

@@ -32,7 +32,7 @@ public class LevelView : MonoBehaviour
 
     public void InitializeLevelButtons(Button[] buttons)
     {
-        Debug.Log("InitializeLevelButtons");
+  
         int unlockedLevel = PlayerPrefs.GetInt("UnlockedLevel", 1);
 
         for (int i = 0; i < buttons.Length; i++)
@@ -48,21 +48,29 @@ public class LevelView : MonoBehaviour
             book.SetActive(active);
             if (active)
             {
+                // Move up and set canvas order
                 RectTransform bookRectTransform = book.GetComponent<RectTransform>();
+                Canvas canvas = book.GetComponent<Canvas>();
+                if (canvas != null)
+                {
+                    canvas.overrideSorting = true;
+                    canvas.sortingOrder = 1000; // Вищий номер — вище на екрані
+                }
+
                 if (bookRectTransform != null)
                 {
                     bookRectTransform.anchoredPosition = new Vector2(0, 100);
-                    Debug.Log("Book window moved up");
+
                 }
                 else
                 {
-                    Debug.LogWarning("Book GameObject does not have a RectTransform component.");
+                    //Debug.LogWarning("Book GameObject does not have a RectTransform component.");
                 }
             }
         }
         else
         {
-            Debug.LogError("Book GameObject is not assigned in the Inspector.");
+            //Debug.LogError("Book GameObject is not assigned in the Inspector.");
         }
     }
 
@@ -73,25 +81,34 @@ public class LevelView : MonoBehaviour
             hint.SetActive(active);
             if (active)
             {
+                // Reset position and set canvas order
                 RectTransform hintRectTransform = hint.GetComponent<RectTransform>();
+                Canvas canvas = hint.GetComponent<Canvas>();
+                if (canvas != null)
+                {
+                    canvas.overrideSorting = true;
+                    canvas.sortingOrder = 1001; // Трохи вище, ніж книга
+                }
+
                 if (hintRectTransform != null)
                 {
                     hintRectTransform.anchoredPosition = Vector2.zero;
-                     hint.transform.localPosition = Vector3.zero;
-                     hint.transform.position = Vector3.zero;
-                    Debug.Log("Hint window activated and moved to (0,0)");
+                    hint.transform.localPosition = Vector3.zero;
+                    hint.transform.position = Vector3.zero;
+
                 }
                 else
                 {
-                    Debug.LogWarning("Hint GameObject does not have a RectTransform component.");
+                    //Debug.LogWarning("Hint GameObject does not have a RectTransform component.");
                 }
             }
         }
         else
         {
-            Debug.LogError("Hint GameObject is not assigned in the Inspector.");
+            //Debug.LogError("Hint GameObject is not assigned in the Inspector.");
         }
     }
+
     public void SetHint(int index, string text) => hints.text = text;
 
     public void OpenHint(bool active) => hintPlace.SetActive(active);

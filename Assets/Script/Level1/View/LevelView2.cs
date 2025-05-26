@@ -19,11 +19,11 @@ public class LevelView2 : MonoBehaviour
         {
             // «м≥нюЇмо спрайт компонента Image
             targetImage.sprite = levelBackgrounds[spriteIndex];
-            Debug.Log($"LevelView: Background changed to sprite at index {spriteIndex}.");
+
         }
         else
         {
-            Debug.LogWarning($"LevelView: Invalid sprite index {spriteIndex}. Array has {levelBackgrounds.Length} elements.", this);
+            //Debug.LogWarning($"LevelView: Invalid sprite index {spriteIndex}. Array has {levelBackgrounds.Length} elements.", this);
         }
     }
 

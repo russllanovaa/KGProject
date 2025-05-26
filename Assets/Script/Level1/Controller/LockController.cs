@@ -23,11 +23,6 @@ public class LockController : MonoBehaviour
         }
         Instance = this;
 
-        if (Model == null) Debug.LogError("LockController: LockModel не призначено!");
-        if (HoleView == null) Debug.LogError("LockController: LockHoleView не призначено!");
-        if (MessageView == null) Debug.LogError("LockController: MessageView не призначено!");
-        if (FeedbackView == null) Debug.LogError("LockController: FeedbackView не призначено!");
-        if (UserFigurePrefab == null) Debug.LogError("LockController: UserFigurePrefab не призначено! Будь ласка, призначте префаб з LineRenderer.");
     }
 
     void Start()
@@ -56,15 +51,14 @@ public class LockController : MonoBehaviour
         {
 
             HoleView.DrawShape(currentData);
-            MessageView.ShowMessage($"Етап {Model.CurrentStageIndex + 1}: Намалюйте {currentData.ExpectedShape}", Color.white);
-            Debug.Log($"Етап {Model.CurrentStageIndex + 1}: Очікується {currentData.ExpectedShape}, Розмір={currentData.TargetSize}, Центр={currentData.TargetCenter}");
-        }
+            MessageView.ShowMessage($"Stage {Model.CurrentStageIndex + 1}: Draw {currentData.ExpectedShape}", Color.black);
+             }
         else
         {
 
             HoleView.Clear();
-            MessageView.ShowMessage("✅ Усі замки відкрито!", Color.green);
-            Debug.Log("Гра закінчена!");
+            MessageView.ShowMessage("All locks have been opened!", Color.green);
+            Debug.Log("Game finished");
         }
     }
 
@@ -72,7 +66,7 @@ public class LockController : MonoBehaviour
     {
         if (Model.IsGameFinished())
         {
-            Debug.Log("Гра вже закінчена, спробу не оброблено.");
+            Debug.Log("Game already finished");
             Destroy(userDrawnFigure.gameObject);
             return;
         }
@@ -97,7 +91,7 @@ public class LockController : MonoBehaviour
         }
         else
         {
-            StartCoroutine(FeedbackView.AnimateFailure(transformedUserFigure.gameObject, "Фігура не підійшла!"));
+            StartCoroutine(FeedbackView.AnimateFailure(transformedUserFigure.gameObject, "Shape doesn't fit!"));
         }
 
     }

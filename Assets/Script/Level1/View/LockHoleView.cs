@@ -22,14 +22,10 @@ public class LockHoleView : MonoBehaviour
         lr.endColor = Color.yellow;
         lr.useWorldSpace = false; // Малюємо відносно об'єкта
         lr.sortingOrder = 10; // Вище за Canvas (який має 0)
-                              // Лог на початку Awake()
-        Debug.Log($"[LockHoleView] Awake: Name={gameObject.name}, Parent={transform.parent?.name ?? "None"}, Local Pos={transform.localPosition}, World Pos={transform.position}");
-    }
+          }
     private void Start()
     {
-        // Лог на початку Start()
-        Debug.Log($"[LockHoleView] Start: Name={gameObject.name}, Parent={transform.parent?.name ?? "None"}, Local Pos={transform.localPosition}, World Pos={transform.position}");
-    }
+         }
 
     public void DrawShape(LockStageData data)
     {
@@ -39,8 +35,7 @@ public class LockHoleView : MonoBehaviour
             return;
         }
         transform.localPosition = data.TargetCenter; // Має бути Vector3.zero
-        Debug.Log($"[LockHoleView] DrawShape: Set localPosition to {data.TargetCenter}. Current localPosition={transform.localPosition}, WorldPosition={transform.position}");
-
+       
 
         switch (data.ExpectedShape)
         {

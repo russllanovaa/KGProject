@@ -16,11 +16,11 @@ public class FeedbackView : MonoBehaviour
   
     public IEnumerator AnimateSuccess(GameObject figureObject, Vector3 targetCenter, float targetSize)
     {
-        Debug.Log("Animation success");
+
         LineRenderer lr = figureObject.GetComponent<LineRenderer>();
 
 
-        LockController.Instance.MessageView.ShowMessage("Успіх", Color.green);
+        LockController.Instance.MessageView.ShowMessage("Success", Color.blue);
         if (lr == null)
         {
             Destroy(figureObject);
@@ -34,7 +34,6 @@ public class FeedbackView : MonoBehaviour
         if (animator != null)
         {
             animator.Play("successLock", -1, 0f); // Назва анімаційного кліпу
-            yield return new WaitForSeconds(0.3f);
             image.color = new Color(1, 1, 1, 1);
         }
 
@@ -62,7 +61,7 @@ public class FeedbackView : MonoBehaviour
 
     public IEnumerator AnimateFailure(GameObject figureObject, string message)
     {
-        Debug.Log("Animation failure");
+
         Vector3 originalPosition = figureObject.transform.position;
         LockController.Instance.MessageView.ShowMessage(message, Color.red);
 
@@ -78,6 +77,7 @@ public class FeedbackView : MonoBehaviour
             timer += Time.deltaTime;
             yield return null;
         }
+        figureObject.transform.position = originalPosition;
     }
 
  

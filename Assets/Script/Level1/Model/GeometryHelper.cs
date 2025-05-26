@@ -34,7 +34,7 @@ public static class GeometryHelper
         {
             cleanPoints.RemoveAt(cleanPoints.Count - 1); // Видаляємо дублікат останньої
         }
-        Debug.Log($"Cleaned points: {cleanPoints.Count}");
+
         return cleanPoints;
     }
 
@@ -157,25 +157,25 @@ public static class GeometryHelper
 
         if (!shapeMatch)
         {
-            Debug.Log($"Невдача: Форма не схожа на {targetData.ExpectedShape}.");
+            Debug.Log($"Failure: Shape doesn't resemble{targetData.ExpectedShape}.");
             return false;
         }
 
         // Перевірка розміру
         if (Mathf.Abs(drawnSize - targetData.TargetSize) > targetData.MatchTolerance)
         {
-            Debug.Log($"Невдача: Розмір {drawnSize}, очікувався ~{targetData.TargetSize}.");
+            Debug.Log($"Failure: Wrong size.");
             return false;
         }
 
         // Перевірка центру
         if (Vector3.Distance(drawnCenter, targetData.TargetCenter) > targetData.MatchTolerance)
         {
-            Debug.Log($"Невдача: Центр {drawnCenter}, очікувався ~{targetData.TargetCenter}.");
+            Debug.Log($"Failure: Wrong center");
             return false;
         }
 
-        Debug.Log("Успіх! Фігура підійшла.");
+        Debug.Log("Success");
         return true;
     }
 }

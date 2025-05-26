@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: dab3fd3fd48ce4a42952f9701742a6b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6494318793541063034
+    second: kRo_5y-ezgif.com-gif-maker-9_0
+  - first:
+      213: -2835028117442294727
+    second: kRo_5y-ezgif.com-gif-maker-9_1
+  - first:
+      213: -5155948236788356410
+    second: kRo_5y-ezgif.com-gif-maker-9_2
+  - first:
+      213: 4015958885268283018
+    second: kRo_5y-ezgif.com-gif-maker-9_3
+  - first:
+      213: 2992095859954855332
+    second: kRo_5y-ezgif.com-gif-maker-9_4
+  - first:
+      213: 5982843773028071427
+    second: kRo_5y-ezgif.com-gif-maker-9_5
+  - first:
+      213: 829884448306036756
+    second: kRo_5y-ezgif.com-gif-maker-9_6
+  - first:
+      213: 5021135590536321854
+    second: kRo_5y-ezgif.com-gif-maker-9_7
+  - first:
+      213: 3048558130123111449
+    second: kRo_5y-ezgif.com-gif-maker-9_8
+  - first:
+      213: -208751408923618376
+    second: kRo_5y-ezgif.com-gif-maker-9_9
+  - first:
+      213: -3643960531828822044
+    second: kRo_5y-ezgif.com-gif-maker-9_10
+  - first:
+      213: -7909579113747064475
+    second: kRo_5y-ezgif.com-gif-maker-9_11
+  - first:
+      213: 7697461461826732152
+    second: kRo_5y-ezgif.com-gif-maker-9_12
+  - first:
+      213: -8738139763802233029
+    second: kRo_5y-ezgif.com-gif-maker-9_13
+  - first:
+      213: 8629635936016393355
+    second: kRo_5y-ezgif.com-gif-maker-9_14
+  - first:
+      213: -2587384536432505260
+    second: kRo_5y-ezgif.com-gif-maker-9_15
+  - first:
+      213: 7990600459612385968
+    second: kRo_5y-ezgif.com-gif-maker-9_16
+  - first:
+      213: 7168287388258751886
+    second: kRo_5y-ezgif.com-gif-maker-9_17
+  - first:
+      213: 6827495383472509559
+    second: kRo_5y-ezgif.com-gif-maker-9_18
+  - first:
+      213: -8916353086224062845
+    second: kRo_5y-ezgif.com-gif-maker-9_19
+  - first:
+      213: 6909799383175401982
+    second: kRo_5y-ezgif.com-gif-maker-9_20
+  - first:
+      213: 8690667838703797888
+    second: kRo_5y-ezgif.com-gif-maker-9_21
+  - first:
+      213: 3896264470031255131
+    second: kRo_5y-ezgif.com-gif-maker-9_22
+  - first:
+      213: 4527761120195651847
+    second: kRo_5y-ezgif.com-gif-maker-9_23
+  - first:
+      213: 3956657682296613736
+    second: kRo_5y-ezgif.com-gif-maker-9_24
+  - first:
+      213: 3534111779465826935
+    second: kRo_5y-ezgif.com-gif-maker-9_25
+  - first:
+      213: 4211356481308089067
+    second: kRo_5y-ezgif.com-gif-maker-9_26
+  - first:
+      213: -3311769659424984154
+    second: kRo_5y-ezgif.com-gif-maker-9_27
+  - first:
+      213: 2951108821951802120
+    second: kRo_5y-ezgif.com-gif-maker-9_28
+  - first:
+      213: 3320095916140154733
+    second: kRo_5y-ezgif.com-gif-maker-9_29
+  - first:
+      213: -7629249787650534189
+    second: kRo_5y-ezgif.com-gif-maker-9_30
+  - first:
+      213: 2820792373322101958
+    second: kRo_5y-ezgif.com-gif-maker-9_31
+  - first:
+      213: 8314943787719892775
+    second: kRo_5y-ezgif.com-gif-maker-9_32
+  - first:
+      213: -7026754156195875554
+    second: kRo_5y-ezgif.com-gif-maker-9_33
+  - first:
+      213: -467794845432576243
+    second: kRo_5y-ezgif.com-gif-maker-9_34
+  - first:
+      213: -1069160677242834493
+    second: kRo_5y-ezgif.com-gif-maker-9_35
+  - first:
+      213: 5517791350038956115
+    second: kRo_5y-ezgif.com-gif-maker-9_36
+  - first:
+      213: 7065800853987030355
+    second: kRo_5y-ezgif.com-gif-maker-9_37
+  - first:
+      213: 6790465770917835828
+    second: kRo_5y-ezgif.com-gif-maker-9_38
+  - first:
+      213: 333249389713771898
+    second: kRo_5y-ezgif.com-gif-maker-9_39
+  - first:
+      213: 8844484826173112892
+    second: kRo_5y-ezgif.com-gif-maker-9_40
+  - first:
+      213: -4809185620000362111
+    second: kRo_5y-ezgif.com-gif-maker-9_41
+  - first:
+      213: -3599031693376858944
+    second: kRo_5y-ezgif.com-gif-maker-9_42
+  - first:
+      213: 7199522452858736234
+    second: kRo_5y-ezgif.com-gif-maker-9_43
+  - first:
+      213: 1534243459276098601
+    second: kRo_5y-ezgif.com-gif-maker-9_44
+  - first:
+      213: -6121836062720485616
+    second: kRo_5y-ezgif.com-gif-maker-9_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 281
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e67d4377b8fd5a0800000000000000
+      internalID: -6494318793541063034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 251
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c8b93a2f4f7a8d0800000000000000
+      internalID: -2835028117442294727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 233
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caade165646278b0800000000000000
+      internalID: -5155948236788356410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 235
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5df4245d8bb730800000000000000
+      internalID: 4015958885268283018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 239
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ada682f45f068920800000000000000
+      internalID: 2992095859954855332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 239
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308fefd86b4570350800000000000000
+      internalID: 5982843773028071427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 235
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41007e14287548b00800000000000000
+      internalID: 829884448306036756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 233
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b1dfa6738aea540800000000000000
+      internalID: 5021135590536321854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 203
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cfd17a777ae4a20800000000000000
+      internalID: 3048558130123111449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3deb813bd5a1df0800000000000000
+      internalID: -208751408923618376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 191
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efaccce33d0e6dc0800000000000000
+      internalID: -3643960531828822044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d14ae3b78b3290800000000000000
+      internalID: -7909579113747064475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8700178aa60e2da60800000000000000
+      internalID: 7697461461826732152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b372ad47e24ebb680800000000000000
+      internalID: -8738139763802233029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 187
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84e33b7920a2c770800000000000000
+      internalID: 8629635936016393355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 187
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e0a900973c71cd0800000000000000
+      internalID: -2587384536432505260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2f44138c054ee60800000000000000
+      internalID: 7990600459612385968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_17
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 207
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e855311866fda7360800000000000000
+      internalID: 7168287388258751886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7729f7da0e220ce50800000000000000
+      internalID: 6827495383472509559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 191
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38628a3eb10c24480800000000000000
+      internalID: -8916353086224062845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11267ede984ef50800000000000000
+      internalID: 6909799383175401982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0860adaaa547b9870800000000000000
+      internalID: 8690667838703797888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 155
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56403764ef421630800000000000000
+      internalID: 3896264470031255131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 117
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709261defb6d5de30800000000000000
+      internalID: 4527761120195651847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_24
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2c13e23fd8e630800000000000000
+      internalID: 3956657682296613736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 102
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772959b50ffab0130800000000000000
+      internalID: 3534111779465826935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea58e2386eb17a30800000000000000
+      internalID: 4211356481308089067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_27
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 135
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3be009a0b3a02d0800000000000000
+      internalID: -3311769659424984154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b65f186d174f820800000000000000
+      internalID: 2951108821951802120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f42c525a9531e20800000000000000
+      internalID: 3320095916140154733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d49d585db57f1690800000000000000
+      internalID: -7629249787650534189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 121
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4bef4e7b7752720800000000000000
+      internalID: 2820792373322101958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_32
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f926a025d946370800000000000000
+      internalID: 8314943787719892775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15f1f30354fb7e90800000000000000
+      internalID: -7026754156195875554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 85
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078b3a011f0289f0800000000000000
+      internalID: -467794845432576243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1ff1957049921f0800000000000000
+      internalID: -1069160677242834493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_36
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 103
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3588bc39ff1239c40800000000000000
+      internalID: 5517791350038956115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 73
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3557c83c074ce0260800000000000000
+      internalID: 7065800853987030355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 85
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434b10724a49c3e50800000000000000
+      internalID: 6790465770917835828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 81
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d4187ed80ff9400800000000000000
+      internalID: 333249389713771898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32816dd61cedba70800000000000000
+      internalID: 8844484826173112892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 77
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18136f4a827524db0800000000000000
+      internalID: -4809185620000362111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 81
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c456ec4ebbad0ec0800000000000000
+      internalID: -3599031693376858944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 75
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e0813b687d9e360800000000000000
+      internalID: 7199522452858736234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_44
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 47
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c4e152c4aba4510800000000000000
+      internalID: 1534243459276098601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kRo_5y-ezgif.com-gif-maker-9_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 71
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0179e5c298eda0ba0800000000000000
+      internalID: -6121836062720485616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kRo_5y-ezgif.com-gif-maker-9_0: -6494318793541063034
+      kRo_5y-ezgif.com-gif-maker-9_1: -2835028117442294727
+      kRo_5y-ezgif.com-gif-maker-9_10: -3643960531828822044
+      kRo_5y-ezgif.com-gif-maker-9_11: -7909579113747064475
+      kRo_5y-ezgif.com-gif-maker-9_12: 7697461461826732152
+      kRo_5y-ezgif.com-gif-maker-9_13: -8738139763802233029
+      kRo_5y-ezgif.com-gif-maker-9_14: 8629635936016393355
+      kRo_5y-ezgif.com-gif-maker-9_15: -2587384536432505260
+      kRo_5y-ezgif.com-gif-maker-9_16: 7990600459612385968
+      kRo_5y-ezgif.com-gif-maker-9_17: 7168287388258751886
+      kRo_5y-ezgif.com-gif-maker-9_18: 6827495383472509559
+      kRo_5y-ezgif.com-gif-maker-9_19: -8916353086224062845
+      kRo_5y-ezgif.com-gif-maker-9_2: -5155948236788356410
+      kRo_5y-ezgif.com-gif-maker-9_20: 6909799383175401982
+      kRo_5y-ezgif.com-gif-maker-9_21: 8690667838703797888
+      kRo_5y-ezgif.com-gif-maker-9_22: 3896264470031255131
+      kRo_5y-ezgif.com-gif-maker-9_23: 4527761120195651847
+      kRo_5y-ezgif.com-gif-maker-9_24: 3956657682296613736
+      kRo_5y-ezgif.com-gif-maker-9_25: 3534111779465826935
+      kRo_5y-ezgif.com-gif-maker-9_26: 4211356481308089067
+      kRo_5y-ezgif.com-gif-maker-9_27: -3311769659424984154
+      kRo_5y-ezgif.com-gif-maker-9_28: 2951108821951802120
+      kRo_5y-ezgif.com-gif-maker-9_29: 3320095916140154733
+      kRo_5y-ezgif.com-gif-maker-9_3: 4015958885268283018
+      kRo_5y-ezgif.com-gif-maker-9_30: -7629249787650534189
+      kRo_5y-ezgif.com-gif-maker-9_31: 2820792373322101958
+      kRo_5y-ezgif.com-gif-maker-9_32: 8314943787719892775
+      kRo_5y-ezgif.com-gif-maker-9_33: -7026754156195875554
+      kRo_5y-ezgif.com-gif-maker-9_34: -467794845432576243
+      kRo_5y-ezgif.com-gif-maker-9_35: -1069160677242834493
+      kRo_5y-ezgif.com-gif-maker-9_36: 5517791350038956115
+      kRo_5y-ezgif.com-gif-maker-9_37: 7065800853987030355
+      kRo_5y-ezgif.com-gif-maker-9_38: 6790465770917835828
+      kRo_5y-ezgif.com-gif-maker-9_39: 333249389713771898
+      kRo_5y-ezgif.com-gif-maker-9_4: 2992095859954855332
+      kRo_5y-ezgif.com-gif-maker-9_40: 8844484826173112892
+      kRo_5y-ezgif.com-gif-maker-9_41: -4809185620000362111
+      kRo_5y-ezgif.com-gif-maker-9_42: -3599031693376858944
+      kRo_5y-ezgif.com-gif-maker-9_43: 7199522452858736234
+      kRo_5y-ezgif.com-gif-maker-9_44: 1534243459276098601
+      kRo_5y-ezgif.com-gif-maker-9_45: -6121836062720485616
+      kRo_5y-ezgif.com-gif-maker-9_5: 5982843773028071427
+      kRo_5y-ezgif.com-gif-maker-9_6: 829884448306036756
+      kRo_5y-ezgif.com-gif-maker-9_7: 5021135590536321854
+      kRo_5y-ezgif.com-gif-maker-9_8: 3048558130123111449
+      kRo_5y-ezgif.com-gif-maker-9_9: -208751408923618376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -58,7 +58,7 @@ public class LockModel : MonoBehaviour
         // Перевірка наявності coordinateRoot
         if (coordinateRoot == null)
         {
-            Debug.LogError("LockModel: coordinateRoot не призначено! Будь ласка, призначте об'єкт у інспекторі.");
+
             // Можливо, призначити поточний об'єкт як корінь за замовчуванням, якщо це доцільно
             coordinateRoot = this.transform;
         }
@@ -82,7 +82,7 @@ public class LockModel : MonoBehaviour
         LevelManager.Instance.OnClickToPass();
         if (currentStageIndex == 3 && NextLevel.Instance != null)
         {
-            Debug.Log("Досягнуто етапу 3, викликається UnlockNewLevel.");
+
             NextLevel.Instance.UnlockNewLevel();
         }
         else if (currentStageIndex == 3 && NextLevel.Instance == null)
