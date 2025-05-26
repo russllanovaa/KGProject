@@ -8,30 +8,30 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class LevelManager : MonoBehaviour
+public class LevelManager2 : MonoBehaviour
 {
     // Статичне поле для зберігання єдиного екземпляра класу
-    private static LevelManager _instance;
+    private static LevelManager2 _instance;
     public Animator animator;
     public Image image;
     // Публічна властивість для доступу до екземпляра
-    public static LevelManager Instance
+    public static LevelManager2 Instance
     {
         get
         {
             if (_instance == null)
             {
-                _instance = FindObjectOfType<LevelManager>();
+                _instance = FindObjectOfType<LevelManager2>();
                 if (_instance == null)
                 {
-                    GameObject singletonObject = new GameObject(typeof(LevelManager).Name);
-                    _instance = singletonObject.AddComponent<LevelManager>();
+                    GameObject singletonObject = new GameObject(typeof(LevelManager2).Name);
+                    _instance = singletonObject.AddComponent<LevelManager2>();
                 }
             }
             return _instance;
         }
     }
-    public LevelView view;
+    public LevelView3 view;
 
     private LevelData levelData;
     private string[] pages;
@@ -46,8 +46,6 @@ public class LevelManager : MonoBehaviour
         LoadPages();
         //UpdatePage();
         view.ToggleBook(false);
-        view.ToggleHint(false);
-        view.OpenHint(false);
         unlockTheory(levelData.CurrentLevel);
         view.SetNext(false);
         view.SetPrev(false);
@@ -62,16 +60,6 @@ public class LevelManager : MonoBehaviour
         }
         _instance = this;
         // DontDestroyOnLoad(gameObject); // Розкоментуйте, якщо LevelManager має існувати між сценами
-    }
-
-    public void OnHints()
-    {
-        view.ToggleHint(true);
-    }
-
-    public void CloseHint()
-    {
-        view.ToggleHint(false);
     }
 
     public void CloseInfo()
@@ -110,25 +98,6 @@ public class LevelManager : MonoBehaviour
     public void unlockTheory(int levelId)
     {
         PlayerData.Instance.ChangeNumbersOfInfo(levelId);
-    }
-    public void LoadHints(int numberOfHint)
-    {
-        int level = levelData.CurrentLevel;
-        int part = levelData.Progress;
-        
-        string filename = $"Hint.{level}.{part}.#{numberOfHint}";
-        var textAsset = Resources.Load<TextAsset>(filename);
-        if (textAsset != null)
-            {
-                view.SetHint(numberOfHint, textAsset.text);
-                view.OpenHint(true);
-            }
-
-    }
-
-    public void closeHintPlace()
-    {
-        view.OpenHint(false);
     }
 
     public void OnReadInformation()
@@ -171,9 +140,9 @@ public class LevelManager : MonoBehaviour
             image.color = new Color(1, 1, 1, 1);
             StartCoroutine(WaitForAnimationThenUpdateLeft(false)); 
         }
-        else if (currentPage >= 2)
+        else if (currentPage > 0)
         {
-            currentPage -= 2;
+            currentPage--;
             UpdatePageImmediately();
         }
     }
@@ -193,9 +162,9 @@ public class LevelManager : MonoBehaviour
             image.color = new Color(1, 1, 1, 1);
             StartCoroutine(WaitForAnimationThenUpdate(false)); 
         }
-        else if (currentPage + 2 < pages.Length)
+        else if (currentPage < pages.Length - 2)
         {
-            currentPage += 2;
+            currentPage++;
             UpdatePageImmediately();
         }
     }
@@ -252,51 +221,7 @@ public class LevelManager : MonoBehaviour
 
     }
 
-    public void OnUnlockHint(int index)
-    {
-        if (canUnlock)
-        {
-            view.SetLock(index, false);
-            canUnlock = false;
-            timer = 0f;
-        }
-    }
 
-    public void OnClickToPass()
-    {
-        levelData.PassLevel();
-        // ButtonAnimation.Instance.PlayAnimation();
-        LoadHints(0);
-        view.SetLock(0, true);
-        view.SetLock(2, true);
-        view.SetLock(1, true);
-        timer = 0f;
-        view.OpenHint(false);
-        canUnlock = true;
-        view.SetTimerText("");
-        PlayerData.Instance.AddStepOfLevel();
-        if (levelData.Progress > 3)
-        {
-            GameManager.Instance.LoadSceneByIndex(7);
-        }
-    }
-
-    private void Update()
-    {
-        if (!canUnlock)
-        {
-            timer += Time.deltaTime;
-            float remain = Mathf.Clamp(cooldown - timer, 0f, cooldown);
-            view.SetTimerText($"{Mathf.CeilToInt(remain)} sec");
-
-            if (timer >= cooldown)
-            {
-                canUnlock = true;
-                timer = 0f;
-                view.SetTimerText("Get it!");
-            }
-        }
-    }
 
     public void unlockLevel(int levelId)
     {

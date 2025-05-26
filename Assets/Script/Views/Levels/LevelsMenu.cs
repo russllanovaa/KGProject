@@ -19,7 +19,12 @@ public class LevelsMenu : MonoBehaviour
     {
         int unlockedLevel = PlayerPrefs.GetInt("UnlockedLevel", 1);
 
-        if(unlockedLevel <= 1)
+        if (DialogueManager.instance.GetInfoNulling() == 1)
+        {
+
+            PlayerPrefs.SetInt("UnlockedLevel", 1);
+        }
+        if (unlockedLevel <= 1)
         {
             complateLevel.SetActive(false);
         }
@@ -27,8 +32,6 @@ public class LevelsMenu : MonoBehaviour
     private void Awake()
     {
         Instance = this;
-        //PlayerPrefs.SetInt("UnlockedLevel", 1);
-
         int unlockedLevel = PlayerPrefs.GetInt("UnlockedLevel", 1);
 
         for (int i = 0; i < girls.Length; i++)
