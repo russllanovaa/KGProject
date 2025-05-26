@@ -19,7 +19,6 @@ public class LevelView : MonoBehaviour
     public Text hints;
     public GameObject hintPlace;
     public GameObject[] locks;
-    public GameObject end;
     public Text timerText;
 
     public void ShowPage(string leftText, string rightText, bool canGoPrev, bool canGoNext)
@@ -94,7 +93,6 @@ public class LevelView : MonoBehaviour
             Debug.LogError("Hint GameObject is not assigned in the Inspector.");
         }
     }
-    public void ToggleEnd(bool active) => end.SetActive(active);
     public void SetHint(int index, string text) => hints.text = text;
 
     public void OpenHint(bool active) => hintPlace.SetActive(active);

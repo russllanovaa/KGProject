@@ -5,12 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 using UnityEngine;
+using UnityEngine.UI;
 
 public class LevelManager : MonoBehaviour
 {
     // Статичне поле для зберігання єдиного екземпляра класу
     private static LevelManager _instance;
-
+    public Animator animator;
+    public Image image;
     // Публічна властивість для доступу до екземпляра
     public static LevelManager Instance
     {
@@ -44,7 +46,6 @@ public class LevelManager : MonoBehaviour
         UpdatePage();
         view.ToggleBook(false);
         view.ToggleHint(false);
-        view.ToggleEnd(false);
         view.OpenHint(false);
         unlockTheory(levelData.CurrentLevel);
     }
@@ -76,7 +77,7 @@ public class LevelManager : MonoBehaviour
     private void LoadPages()
     {
         //int info = PlayerData.Instance.GetAvailableInfo();
-        int info = 1;
+        int info = 4;
         pages = new string[info];
         for (int i = 0; i < info; i++)
         {
@@ -110,6 +111,12 @@ public class LevelManager : MonoBehaviour
 
     public void OnReadInformation()
     {
+        if (animator != null)
+        {
+            animator.Play("OpenAnim", -1, 0f); // Назва анімаційного кліпу
+            image.color = new Color(1, 1, 1, 1);
+        }
+
         UpdatePage();
         view.ToggleBook(true);
     }
@@ -125,6 +132,11 @@ public class LevelManager : MonoBehaviour
 
     public void OnNext()
     {
+        if (animator != null)
+        {
+            animator.Play("ChangeAnim", -1, 0f); // Назва анімаційного кліпу
+            image.color = new Color(1, 1, 1, 1);
+        }
         if (currentPage < pages.Length - 2)
         {
             currentPage++;
