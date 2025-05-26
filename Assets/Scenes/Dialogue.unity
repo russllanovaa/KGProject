@@ -1205,9 +1205,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogView: {fileID: 891020967}
   dialogueData: {fileID: 0}
+  back: {fileID: 157937803}
   lineNum: 0
   playerTalking: 0
   currentLevel: 0
+  nullingLevel: 0
 --- !u!4 &1869791274
 Transform:
   m_ObjectHideFlags: 0
@@ -1325,6 +1327,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterPoses:
   - {fileID: -542725304889625315, guid: 1f2440887d866bf488d79dbf46493054, type: 3}
+  - {fileID: -2307717748893145242, guid: e841c1952b8d9874eb523c45d962e675, type: 3}
 --- !u!1 &2071745659
 GameObject:
   m_ObjectHideFlags: 0

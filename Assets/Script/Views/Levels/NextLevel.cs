@@ -48,13 +48,12 @@ public class NextLevel : MonoBehaviour
 
     public void UnlockNewLevel()
     {
-        if (PlayerData.Instance.StepOfLevel()==3)
-        {
+            Debug.Log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa");
+            PlayerData.Instance.SetAvailableLevel(2);
             PlayerPrefs.SetInt("ReachedIndex", SceneManager.GetActiveScene().buildIndex + 1);
             PlayerPrefs.SetInt("UnlockedLevel", PlayerPrefs.GetInt("UnlockedLevel", 1) + 1);
             PlayerPrefs.Save();
 
-        }
     }
 }
 
