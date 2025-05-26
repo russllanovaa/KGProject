@@ -19,7 +19,7 @@ public class LineDrawer : MonoBehaviour
         Shader spriteShader = Shader.Find("Sprites/Default");
         if (spriteShader == null)
         {
-            Debug.LogError("Sprites/Default shader not found!");
+            //Debug.LogError("Sprites/Default shader not found!");
         }
         else
         {

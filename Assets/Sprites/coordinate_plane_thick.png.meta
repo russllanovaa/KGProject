@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 99e4e83f36276ab42b150f599edffa65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4699113239022074288
+    second: coordinate_plane_thick_0
+  - first:
+      213: -4891495331172172816
+    second: coordinate_plane_thick_1
+  - first:
+      213: -4468598463952275524
+    second: coordinate_plane_thick_2
+  - first:
+      213: 4568122220508040646
+    second: coordinate_plane_thick_3
+  - first:
+      213: 4170934200350389186
+    second: coordinate_plane_thick_4
+  - first:
+      213: -8301197605864942688
+    second: coordinate_plane_thick_5
+  - first:
+      213: -2878683612847654957
+    second: coordinate_plane_thick_6
+  - first:
+      213: -2645893893965176931
+    second: coordinate_plane_thick_7
+  - first:
+      213: -914498933519629075
+    second: coordinate_plane_thick_8
+  - first:
+      213: 4459165738053969839
+    second: coordinate_plane_thick_9
+  - first:
+      213: 5492420346528219553
+    second: coordinate_plane_thick_10
+  - first:
+      213: 2246726890439066426
+    second: coordinate_plane_thick_11
+  - first:
+      213: -794579530350961466
+    second: coordinate_plane_thick_12
+  - first:
+      213: -5877263590568611902
+    second: coordinate_plane_thick_13
+  - first:
+      213: 5638015543998810603
+    second: coordinate_plane_thick_14
+  - first:
+      213: -2314436183148023619
+    second: coordinate_plane_thick_15
+  - first:
+      213: -3246888716934876005
+    second: coordinate_plane_thick_16
+  - first:
+      213: -4699945511984646526
+    second: coordinate_plane_thick_17
+  - first:
+      213: -3973212174436633741
+    second: coordinate_plane_thick_18
+  - first:
+      213: 5313243502378338242
+    second: coordinate_plane_thick_19
+  - first:
+      213: -1370745446503711542
+    second: coordinate_plane_thick_20
+  - first:
+      213: 7525584540817137309
+    second: coordinate_plane_thick_21
+  - first:
+      213: 1085877596928435237
+    second: coordinate_plane_thick_22
+  - first:
+      213: 4853673721589490658
+    second: coordinate_plane_thick_23
+  - first:
+      213: -899202459890437086
+    second: coordinate_plane_thick_24
+  - first:
+      213: 3532106613414779217
+    second: coordinate_plane_thick_25
+  - first:
+      213: 2618283940122926371
+    second: coordinate_plane_thick_26
+  - first:
+      213: 2847353495064740941
+    second: coordinate_plane_thick_27
+  - first:
+      213: 46616828800183517
+    second: coordinate_plane_thick_28
+  - first:
+      213: -7815259234406391103
+    second: coordinate_plane_thick_29
+  - first:
+      213: 565148601436966199
+    second: coordinate_plane_thick_30
+  - first:
+      213: 3157923227980406833
+    second: coordinate_plane_thick_31
+  - first:
+      213: -8435476250887474372
+    second: coordinate_plane_thick_32
+  - first:
+      213: 1841296485511866756
+    second: coordinate_plane_thick_33
+  - first:
+      213: -7742889017928492114
+    second: coordinate_plane_thick_34
+  - first:
+      213: 8813770997770237917
+    second: coordinate_plane_thick_35
+  - first:
+      213: 4650304094499256178
+    second: coordinate_plane_thick_36
+  - first:
+      213: 8061414479306871600
+    second: coordinate_plane_thick_37
+  - first:
+      213: -5521014596775647133
+    second: coordinate_plane_thick_38
+  - first:
+      213: 5737805601227197243
+    second: coordinate_plane_thick_39
+  - first:
+      213: 1109390605144002688
+    second: coordinate_plane_thick_40
+  - first:
+      213: -5952719919248870425
+    second: coordinate_plane_thick_41
+  - first:
+      213: 1511089375180022744
+    second: coordinate_plane_thick_42
+  - first:
+      213: -8448584343534710707
+    second: coordinate_plane_thick_43
+  - first:
+      213: -3245697039355403851
+    second: coordinate_plane_thick_44
+  - first:
+      213: -4257573388938022042
+    second: coordinate_plane_thick_45
+  - first:
+      213: -4396263633553048275
+    second: coordinate_plane_thick_46
+  - first:
+      213: -2572361600743174180
+    second: coordinate_plane_thick_47
+  - first:
+      213: -5055834744342860970
+    second: coordinate_plane_thick_48
+  - first:
+      213: -7602108363762545843
+    second: coordinate_plane_thick_49
+  - first:
+      213: 3730670839665036508
+    second: coordinate_plane_thick_50
+  - first:
+      213: -9113406933345273599
+    second: coordinate_plane_thick_51
+  - first:
+      213: -346245819845668972
+    second: coordinate_plane_thick_52
+  - first:
+      213: -7918108802192271117
+    second: coordinate_plane_thick_53
+  - first:
+      213: 3802962307960663325
+    second: coordinate_plane_thick_54
+  - first:
+      213: -6682076356505280519
+    second: coordinate_plane_thick_55
+  - first:
+      213: -8172032073298834477
+    second: coordinate_plane_thick_56
+  - first:
+      213: -8969472055483638541
+    second: coordinate_plane_thick_57
+  - first:
+      213: 8002904733286890473
+    second: coordinate_plane_thick_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coordinate_plane_thick_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1458
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05601c4f76569ceb0800000000000000
+      internalID: -4699113239022074288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1458
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb300d99eaed1cb0800000000000000
+      internalID: -4891495331172172816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 89
+        width: 1394
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7b4486f595cf1c0800000000000000
+      internalID: -4468598463952275524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1343
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd43f3e4fa356f30800000000000000
+      internalID: 4568122220508040646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1342
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b9618e8222e930800000000000000
+      internalID: 4170934200350389186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1227
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d81452c83ccc80800000000000000
+      internalID: -8301197605864942688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1226
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d73a7b818cdc08d0800000000000000
+      internalID: -2878683612847654957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1111
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f94d0a585e74bd0800000000000000
+      internalID: -2645893893965176931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1110
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4c610b01c0f43f0800000000000000
+      internalID: -914498933519629075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 997
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7ac43fc9322ed30800000000000000
+      internalID: 4459165738053969839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 996
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a141ff743ff83c40800000000000000
+      internalID: 5492420346528219553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 879
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3340f3043afd2f10800000000000000
+      internalID: 2246726890439066426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 764
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc52a3802619f4f0800000000000000
+      internalID: -794579530350961466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 661
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf22d847e3cf6ea0800000000000000
+      internalID: -5877263590568611902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 648
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be90e2a04414e3e40800000000000000
+      internalID: 5638015543998810603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 547
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0b628cd8871efd0800000000000000
+      internalID: -2314436183148023619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 535
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b947fd92aebb0f2d0800000000000000
+      internalID: -3246888716934876005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 534
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286b67e457076ceb0800000000000000
+      internalID: -4699945511984646526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 430
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373727d04905cd8c0800000000000000
+      internalID: -3973212174436633741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 418
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7c96c80de6cb940800000000000000
+      internalID: 5313243502378338242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 417
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc79a767422afce0800000000000000
+      internalID: -1370745446503711542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 315
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e9392844f307860800000000000000
+      internalID: 7525584540817137309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 303
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5246972dbefc11f00800000000000000
+      internalID: 1085877596928435237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 302
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e36dfea886bb5340800000000000000
+      internalID: 4853673721589490658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b21d70246583f0800000000000000
+      internalID: -899202459890437086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 188
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15955614040940130800000000000000
+      internalID: 3532106613414779217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 187
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d132c0f53065420800000000000000
+      internalID: 2618283940122926371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 85
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d440d47fae4d38720800000000000000
+      internalID: 2847353495064740941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 72
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddca03142cd95a000800000000000000
+      internalID: 46616828800183517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 72
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2ad91222f9a8390800000000000000
+      internalID: -7815259234406391103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 51
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d85f1a8afc7d700800000000000000
+      internalID: 565148601436966199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1302ab7c17233db20800000000000000
+      internalID: 3157923227980406833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33bb9afa0b2fea80800000000000000
+      internalID: -8435476250887474372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 51
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4892c11e5699d8910800000000000000
+      internalID: 1841296485511866756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 39
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab5917367bbb8490800000000000000
+      internalID: -7742889017928492114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 38
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd73cbd660ec05a70800000000000000
+      internalID: 8813770997770237917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 51
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773c228fe2398040800000000000000
+      internalID: 4650304094499256178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033d64af1c5efdf60800000000000000
+      internalID: 8061414479306871600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368e07fc97a6163b0800000000000000
+      internalID: -5521014596775647133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_39
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 50
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bc46b4bc7c0af40800000000000000
+      internalID: 5737805601227197243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_40
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 38
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08093c8a0e8556f00800000000000000
+      internalID: 1109390605144002688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 37
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e377c5b5c0b36da0800000000000000
+      internalID: -5952719919248870425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_42
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 51
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3e877d7c778f410800000000000000
+      internalID: 1511089375180022744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_43
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 39
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40dfa45d4990ca80800000000000000
+      internalID: -8448584343534710707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_44
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b12fa83db7f4f2d0800000000000000
+      internalID: -3245697039355403851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_45
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 50
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66371337f8f0ae4c0800000000000000
+      internalID: -4257573388938022042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_46
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 37
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d3a1784855df2c0800000000000000
+      internalID: -4396263633553048275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf09d9c0c22d4cd0800000000000000
+      internalID: -2572361600743174180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_48
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 37
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bad54461116d9b0800000000000000
+      internalID: -5055834744342860970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_49
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 39
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b48e988b2ef7690800000000000000
+      internalID: -7602108363762545843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_50
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc842cdc5106c330800000000000000
+      internalID: 3730670839665036508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_51
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 38
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097f54ddaca68180800000000000000
+      internalID: -9113406933345273599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_52
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 37
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f8227e243e13bf0800000000000000
+      internalID: -346245819845668972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_53
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 39
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f89f601ff93d1290800000000000000
+      internalID: -7918108802192271117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_54
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1de134f116d6c430800000000000000
+      internalID: 3802962307960663325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_55
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 39
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff5778f4fe7443a0800000000000000
+      internalID: -6682076356505280519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_56
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 38
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db8ce9602c179e80800000000000000
+      internalID: -8172032073298834477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_57
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 38
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcda1610b8068380800000000000000
+      internalID: -8969472055483638541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_thick_58
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb7bd62477001f60800000000000000
+      internalID: 8002904733286890473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coordinate_plane_thick_0: -4699113239022074288
+      coordinate_plane_thick_1: -4891495331172172816
+      coordinate_plane_thick_10: 5492420346528219553
+      coordinate_plane_thick_11: 2246726890439066426
+      coordinate_plane_thick_12: -794579530350961466
+      coordinate_plane_thick_13: -5877263590568611902
+      coordinate_plane_thick_14: 5638015543998810603
+      coordinate_plane_thick_15: -2314436183148023619
+      coordinate_plane_thick_16: -3246888716934876005
+      coordinate_plane_thick_17: -4699945511984646526
+      coordinate_plane_thick_18: -3973212174436633741
+      coordinate_plane_thick_19: 5313243502378338242
+      coordinate_plane_thick_2: -4468598463952275524
+      coordinate_plane_thick_20: -1370745446503711542
+      coordinate_plane_thick_21: 7525584540817137309
+      coordinate_plane_thick_22: 1085877596928435237
+      coordinate_plane_thick_23: 4853673721589490658
+      coordinate_plane_thick_24: -899202459890437086
+      coordinate_plane_thick_25: 3532106613414779217
+      coordinate_plane_thick_26: 2618283940122926371
+      coordinate_plane_thick_27: 2847353495064740941
+      coordinate_plane_thick_28: 46616828800183517
+      coordinate_plane_thick_29: -7815259234406391103
+      coordinate_plane_thick_3: 4568122220508040646
+      coordinate_plane_thick_30: 565148601436966199
+      coordinate_plane_thick_31: 3157923227980406833
+      coordinate_plane_thick_32: -8435476250887474372
+      coordinate_plane_thick_33: 1841296485511866756
+      coordinate_plane_thick_34: -7742889017928492114
+      coordinate_plane_thick_35: 8813770997770237917
+      coordinate_plane_thick_36: 4650304094499256178
+      coordinate_plane_thick_37: 8061414479306871600
+      coordinate_plane_thick_38: -5521014596775647133
+      coordinate_plane_thick_39: 5737805601227197243
+      coordinate_plane_thick_4: 4170934200350389186
+      coordinate_plane_thick_40: 1109390605144002688
+      coordinate_plane_thick_41: -5952719919248870425
+      coordinate_plane_thick_42: 1511089375180022744
+      coordinate_plane_thick_43: -8448584343534710707
+      coordinate_plane_thick_44: -3245697039355403851
+      coordinate_plane_thick_45: -4257573388938022042
+      coordinate_plane_thick_46: -4396263633553048275
+      coordinate_plane_thick_47: -2572361600743174180
+      coordinate_plane_thick_48: -5055834744342860970
+      coordinate_plane_thick_49: -7602108363762545843
+      coordinate_plane_thick_5: -8301197605864942688
+      coordinate_plane_thick_50: 3730670839665036508
+      coordinate_plane_thick_51: -9113406933345273599
+      coordinate_plane_thick_52: -346245819845668972
+      coordinate_plane_thick_53: -7918108802192271117
+      coordinate_plane_thick_54: 3802962307960663325
+      coordinate_plane_thick_55: -6682076356505280519
+      coordinate_plane_thick_56: -8172032073298834477
+      coordinate_plane_thick_57: -8969472055483638541
+      coordinate_plane_thick_58: 8002904733286890473
+      coordinate_plane_thick_6: -2878683612847654957
+      coordinate_plane_thick_7: -2645893893965176931
+      coordinate_plane_thick_8: -914498933519629075
+      coordinate_plane_thick_9: 4459165738053969839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

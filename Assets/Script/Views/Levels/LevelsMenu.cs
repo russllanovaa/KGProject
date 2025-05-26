@@ -55,7 +55,7 @@ public class LevelsMenu : MonoBehaviour
             buttons[i].interactable = true;
         }
 
-        Debug.Log(unlockedLevel);
+        //Debug.Log(unlockedLevel);
     }
     public void OpenLevel()
     {

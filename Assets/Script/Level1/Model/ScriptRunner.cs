@@ -96,6 +96,9 @@ public class ScriptRunner : MonoBehaviour
         //DrawPentagon(center, radius);
 
 
+
+
+
         ";
     }
 
@@ -109,11 +112,11 @@ public class ScriptRunner : MonoBehaviour
 
         if (string.IsNullOrEmpty(userScript))
         {
-            Debug.Log("Код не введено!");
+            Debug.Log("There's no code");
             return;
         }
 
-        Debug.Log("--- Виконується користувацький код ---");
+        Debug.Log("--- Using your code ---");
         Debug.Log(userScript);
 
         try
@@ -128,23 +131,23 @@ public class ScriptRunner : MonoBehaviour
                 LineRenderer lr = lastDrawer.GetLineRenderer();
                 if (lr != null && lr.positionCount > 0)
                 {
-                    Debug.Log($"Submitting {lastDrawer.name} for checking.");
+
                     LockController.Instance.SubmitUserFigure(lr);
                 }
                 else
                 {
-                    Debug.Log("Остання фігура не має LineRenderer або точок!");
+
                     if (lr != null) Destroy(lr.gameObject);
                 }
             }
             else
             {
-                Debug.LogWarning("Нічого не намальовано або LockController не знайдено.");
+                Debug.LogWarning("Nothing was drawn");
             }
         }
         catch (System.Exception e)
         {
-            Debug.Log($"Помилка виконання коду: {e.Message}");
+            Debug.Log($"Error code: {e.Message}");
         }
     }
 

@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: d77968cd384b19741b4fd6376b4aa7c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6615207980284368357
+    second: coordinate_plane_0
+  - first:
+      213: 3476655744723125673
+    second: coordinate_plane_1
+  - first:
+      213: 2712280812119549780
+    second: coordinate_plane_2
+  - first:
+      213: 3081856535659621126
+    second: coordinate_plane_3
+  - first:
+      213: -8260753052622552085
+    second: coordinate_plane_4
+  - first:
+      213: 7559914334439134064
+    second: coordinate_plane_5
+  - first:
+      213: -1950841886595688623
+    second: coordinate_plane_6
+  - first:
+      213: 5869863888382029086
+    second: coordinate_plane_7
+  - first:
+      213: -795376955642086295
+    second: coordinate_plane_8
+  - first:
+      213: -5157054842406271782
+    second: coordinate_plane_9
+  - first:
+      213: -1033790473125815310
+    second: coordinate_plane_10
+  - first:
+      213: 3836263665517834188
+    second: coordinate_plane_11
+  - first:
+      213: -2272608863268958613
+    second: coordinate_plane_12
+  - first:
+      213: -6331629266373728803
+    second: coordinate_plane_13
+  - first:
+      213: 2625484761256915534
+    second: coordinate_plane_14
+  - first:
+      213: 4492854937473922674
+    second: coordinate_plane_15
+  - first:
+      213: 3290386975146615489
+    second: coordinate_plane_16
+  - first:
+      213: 4877859220665478597
+    second: coordinate_plane_17
+  - first:
+      213: 8585478255874438250
+    second: coordinate_plane_18
+  - first:
+      213: 3981714990531596439
+    second: coordinate_plane_19
+  - first:
+      213: 7675881682779343459
+    second: coordinate_plane_20
+  - first:
+      213: -4327544647253654031
+    second: coordinate_plane_21
+  - first:
+      213: 354471206809193702
+    second: coordinate_plane_22
+  - first:
+      213: -2880634686311748334
+    second: coordinate_plane_23
+  - first:
+      213: -9137435613380841341
+    second: coordinate_plane_24
+  - first:
+      213: 8839228033313098806
+    second: coordinate_plane_25
+  - first:
+      213: 5500226129818545682
+    second: coordinate_plane_26
+  - first:
+      213: -62208839323682698
+    second: coordinate_plane_27
+  - first:
+      213: -6841915961412305551
+    second: coordinate_plane_28
+  - first:
+      213: -1346955805306304727
+    second: coordinate_plane_29
+  - first:
+      213: 9080686555978771514
+    second: coordinate_plane_30
+  - first:
+      213: 6982302199281444229
+    second: coordinate_plane_31
+  - first:
+      213: 3738074471375494376
+    second: coordinate_plane_32
+  - first:
+      213: 7551101151892544424
+    second: coordinate_plane_33
+  - first:
+      213: 7982387745917426717
+    second: coordinate_plane_34
+  - first:
+      213: -4047339094700856423
+    second: coordinate_plane_35
+  - first:
+      213: -2022442194784803507
+    second: coordinate_plane_36
+  - first:
+      213: 7963121146799823849
+    second: coordinate_plane_37
+  - first:
+      213: -8276925632359008531
+    second: coordinate_plane_38
+  - first:
+      213: -6005715063585496961
+    second: coordinate_plane_39
+  - first:
+      213: -862269310642373158
+    second: coordinate_plane_40
+  - first:
+      213: -3874909473790476534
+    second: coordinate_plane_41
+  - first:
+      213: -3209367332208736182
+    second: coordinate_plane_42
+  - first:
+      213: 1770353290922310187
+    second: coordinate_plane_43
+  - first:
+      213: 4652954058136881066
+    second: coordinate_plane_44
+  - first:
+      213: 2612222784372001799
+    second: coordinate_plane_45
+  - first:
+      213: 5422116601734770618
+    second: coordinate_plane_46
+  - first:
+      213: -5267841746574467599
+    second: coordinate_plane_47
+  - first:
+      213: 3272283661382917871
+    second: coordinate_plane_48
+  - first:
+      213: 8454476355229215230
+    second: coordinate_plane_49
+  - first:
+      213: 4482873450681057827
+    second: coordinate_plane_50
+  - first:
+      213: 8933824816020309552
+    second: coordinate_plane_51
+  - first:
+      213: 2939341227647184176
+    second: coordinate_plane_52
+  - first:
+      213: -4174068057647281516
+    second: coordinate_plane_53
+  - first:
+      213: 3321022201271651752
+    second: coordinate_plane_54
+  - first:
+      213: -3823357740572280758
+    second: coordinate_plane_55
+  - first:
+      213: 1793822864707144081
+    second: coordinate_plane_56
+  - first:
+      213: -7424552696949804073
+    second: coordinate_plane_57
+  - first:
+      213: 2956422226843916756
+    second: coordinate_plane_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coordinate_plane_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1458
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5dd24fb90fdcb50800000000000000
+      internalID: 6615207980284368357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1458
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a50b8ecaff8f3030800000000000000
+      internalID: 3476655744723125673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 89
+        width: 1394
+        height: 1394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4576e714705f3a520800000000000000
+      internalID: 2712280812119549780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1343
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b25b8d034f4ca20800000000000000
+      internalID: 3081856535659621126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1342
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be38531bdd8eb5d80800000000000000
+      internalID: -8260753052622552085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1227
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073d0a478063ae860800000000000000
+      internalID: 7559914334439134064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1226
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157d280e3a73de4e0800000000000000
+      internalID: -1950841886595688623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1111
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d67ea4b12f57150800000000000000
+      internalID: 5869863888382029086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1110
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cfb687fd046f4f0800000000000000
+      internalID: -795376955642086295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 997
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad48a2fa1f57e68b0800000000000000
+      internalID: -5157054842406271782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 996
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb172dba0d37a1f0800000000000000
+      internalID: -1033790473125815310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 879
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfade77a752d3530800000000000000
+      internalID: 3836263665517834188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 764
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e037797421670e0800000000000000
+      internalID: -2272608863268958613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 661
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5a3588ab88128a0800000000000000
+      internalID: -6331629266373728803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 648
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e427bedda789f6420800000000000000
+      internalID: 2625484761256915534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 547
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2763e7fe2c3d95e30800000000000000
+      internalID: 4492854937473922674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 535
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2af2b458dc9ad20800000000000000
+      internalID: 3290386975146615489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 534
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd21200e13a1b340800000000000000
+      internalID: 4877859220665478597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 430
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647c346cfeb52770800000000000000
+      internalID: 8585478255874438250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 418
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790db7710b4e14730800000000000000
+      internalID: 3981714990531596439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 417
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a8dffc8b5368a60800000000000000
+      internalID: 7675881682779343459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 315
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f58dc6521971f3c0800000000000000
+      internalID: -4327544647253654031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 303
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec47fc3fa55be400800000000000000
+      internalID: 354471206809193702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 302
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d28bad30ee508d0800000000000000
+      internalID: -2880634686311748334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 200
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3807e6ac8be413180800000000000000
+      internalID: -9137435613380841341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 188
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c4d46601f3baa70800000000000000
+      internalID: 8839228033313098806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 187
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ee72c068ab45c40800000000000000
+      internalID: 5500226129818545682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 85
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678f836e36df22ff0800000000000000
+      internalID: -62208839323682698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 72
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17db1f0eea1ac01a0800000000000000
+      internalID: -6841915961412305551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 72
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274190e4d6ae4de0800000000000000
+      internalID: -1346955805306304727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 51
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ca7c5af44150e70800000000000000
+      internalID: 9080686555978771514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585699e3bde16e060800000000000000
+      internalID: 6982302199281444229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecda423dee40e330800000000000000
+      internalID: 3738074471375494376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 51
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab199d7d76eac860800000000000000
+      internalID: 7551101151892544424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 39
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cd6d6cc5327ce60800000000000000
+      internalID: 7982387745917426717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 38
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bedce7986f4d7c0800000000000000
+      internalID: -4047339094700856423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 51
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4527190a87dee3e0800000000000000
+      internalID: -2022442194784803507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 39
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb976a1e70b28e60800000000000000
+      internalID: 7963121146799823849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_38
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de67aea8df3722d80800000000000000
+      internalID: -8276925632359008531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_39
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 50
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7026c428f967aca0800000000000000
+      internalID: -6005715063585496961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_40
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 38
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addb07661aa9804f0800000000000000
+      internalID: -862269310642373158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 37
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f3ced1d5e893ac0800000000000000
+      internalID: -3874909473790476534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_42
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 51
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4884f15a690673d0800000000000000
+      internalID: -3209367332208736182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_43
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 39
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a3e5830fe819810800000000000000
+      internalID: 1770353290922310187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_44
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7067f301d929040800000000000000
+      internalID: 4652954058136881066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_45
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 50
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ccca048ca704420800000000000000
+      internalID: 2612222784372001799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_46
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 37
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf2629525a3f3b40800000000000000
+      internalID: 5422116601734770618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_47
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd947a77ddd4e6b0800000000000000
+      internalID: -5267841746574467599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_48
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 37
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee1b0917ac796d20800000000000000
+      internalID: 3272283661382917871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_49
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 39
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9606b8375545570800000000000000
+      internalID: 8454476355229215230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_50
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322cfd0f6ad563e30800000000000000
+      internalID: 4482873450681057827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_51
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 38
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036c57436525bfb70800000000000000
+      internalID: 8933824816020309552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_52
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 37
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d2293f543aac820800000000000000
+      internalID: 2939341227647184176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_53
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 39
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a01ab773bb216c0800000000000000
+      internalID: -4174068057647281516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_54
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad8bf5b814a61e20800000000000000
+      internalID: 3321022201271651752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_55
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 39
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f2f75464b0fac0800000000000000
+      internalID: -3823357740572280758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_56
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 38
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199c7d03460f4e810800000000000000
+      internalID: 1793822864707144081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_57
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 38
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3732ab8a0b6f890800000000000000
+      internalID: -7424552696949804073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coordinate_plane_58
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 38
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9d91df952570920800000000000000
+      internalID: 2956422226843916756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      coordinate_plane_0: 6615207980284368357
+      coordinate_plane_1: 3476655744723125673
+      coordinate_plane_10: -1033790473125815310
+      coordinate_plane_11: 3836263665517834188
+      coordinate_plane_12: -2272608863268958613
+      coordinate_plane_13: -6331629266373728803
+      coordinate_plane_14: 2625484761256915534
+      coordinate_plane_15: 4492854937473922674
+      coordinate_plane_16: 3290386975146615489
+      coordinate_plane_17: 4877859220665478597
+      coordinate_plane_18: 8585478255874438250
+      coordinate_plane_19: 3981714990531596439
+      coordinate_plane_2: 2712280812119549780
+      coordinate_plane_20: 7675881682779343459
+      coordinate_plane_21: -4327544647253654031
+      coordinate_plane_22: 354471206809193702
+      coordinate_plane_23: -2880634686311748334
+      coordinate_plane_24: -9137435613380841341
+      coordinate_plane_25: 8839228033313098806
+      coordinate_plane_26: 5500226129818545682
+      coordinate_plane_27: -62208839323682698
+      coordinate_plane_28: -6841915961412305551
+      coordinate_plane_29: -1346955805306304727
+      coordinate_plane_3: 3081856535659621126
+      coordinate_plane_30: 9080686555978771514
+      coordinate_plane_31: 6982302199281444229
+      coordinate_plane_32: 3738074471375494376
+      coordinate_plane_33: 7551101151892544424
+      coordinate_plane_34: 7982387745917426717
+      coordinate_plane_35: -4047339094700856423
+      coordinate_plane_36: -2022442194784803507
+      coordinate_plane_37: 7963121146799823849
+      coordinate_plane_38: -8276925632359008531
+      coordinate_plane_39: -6005715063585496961
+      coordinate_plane_4: -8260753052622552085
+      coordinate_plane_40: -862269310642373158
+      coordinate_plane_41: -3874909473790476534
+      coordinate_plane_42: -3209367332208736182
+      coordinate_plane_43: 1770353290922310187
+      coordinate_plane_44: 4652954058136881066
+      coordinate_plane_45: 2612222784372001799
+      coordinate_plane_46: 5422116601734770618
+      coordinate_plane_47: -5267841746574467599
+      coordinate_plane_48: 3272283661382917871
+      coordinate_plane_49: 8454476355229215230
+      coordinate_plane_5: 7559914334439134064
+      coordinate_plane_50: 4482873450681057827
+      coordinate_plane_51: 8933824816020309552
+      coordinate_plane_52: 2939341227647184176
+      coordinate_plane_53: -4174068057647281516
+      coordinate_plane_54: 3321022201271651752
+      coordinate_plane_55: -3823357740572280758
+      coordinate_plane_56: 1793822864707144081
+      coordinate_plane_57: -7424552696949804073
+      coordinate_plane_58: 2956422226843916756
+      coordinate_plane_6: -1950841886595688623
+      coordinate_plane_7: 5869863888382029086
+      coordinate_plane_8: -795376955642086295
+      coordinate_plane_9: -5157054842406271782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
