@@ -33,7 +33,7 @@ public class PlayerData : MonoBehaviour
 {
     private static PlayerData instance;
 
-    private int currentLevel;
+    private int currentLevel = 0;
     private int availableLevel;
     private int availableInfo;
     private int stepOfLevel = 1;

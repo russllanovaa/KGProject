@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a865d77e80fc2294fb7ca0eed936f113
+guid: e841c1952b8d9874eb523c45d962e675
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3754004630760545085
-    second: UI_TravelBook_Spritesheet01a 1_0
+      213: -2307717748893145242
+    second: image-removebg-preview (18)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI_TravelBook_Spritesheet01a 1_0
+      name: image-removebg-preview (18)_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 11
-        width: 227
-        height: 35
+        x: 0
+        y: 17
+        width: 386
+        height: 480
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3b57a57257e81430800000000000000
-      internalID: 3754004630760545085
+      spriteID: 6672c572fe659ffd0800000000000000
+      internalID: -2307717748893145242
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      UI_TravelBook_Spritesheet01a 1_0: 3754004630760545085
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

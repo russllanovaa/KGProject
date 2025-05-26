@@ -11,7 +11,26 @@ using System.Collections.Generic;
 
 public class DialogueData : MonoBehaviour
 {
+
+    List<int> countOfEntry = new List<int>();
+
+    public int GetNextLocation(int level)
+    {
+        if (countOfEntry[level] == 1)
+        {
+            return level;
+        }
+        else if (level == 0 || countOfEntry[level] > 1)
+        {
+            return 0;
+        }
+        else
+        {
+            return 0;
+        }
+    }
     [System.Serializable]
+
     public struct DialogueLine
     {
         public string characterName;
@@ -32,7 +51,31 @@ public class DialogueData : MonoBehaviour
 
     public void LoadDialogue(int levelNumber)
     {
-        string filename = "dialog" + levelNumber.ToString();
+
+        string filename;
+        Debug.Log($"levelNumber: {levelNumber}, Count: {countOfEntry.Count}");
+
+        if (levelNumber >= countOfEntry.Count)
+        {
+            while (countOfEntry.Count <= levelNumber)
+            {
+                countOfEntry.Add(0);
+            }
+        }
+        if (countOfEntry[levelNumber] == 1)
+        {
+            Debug.Log("AAAAAAAAAAAAAAAA");
+            countOfEntry[levelNumber] += 1;
+            filename = "dialog" + levelNumber.ToString() + "." + countOfEntry[levelNumber];
+        }
+        else
+        {
+            countOfEntry[levelNumber] = 1;
+            filename = "dialog" + levelNumber.ToString() + ".0";
+        }
+
+
+        Debug.Log("LOAD" + levelNumber);
         TextAsset dialogueFile = Resources.Load<TextAsset>(filename);
 
         if (dialogueFile != null)
