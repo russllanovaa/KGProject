@@ -1,6 +1,7 @@
-Салем;Іноді мені здається, що нам варто було б відмовитись від проєкту;0;left
-Міс Р.;Тобі не здається;0;right
-Салем;Але я не хочу, щоб Оленка знесла нам голову;0;left
-Міс Р.;Пу-пу-пу;1;right
-Міс Р.;Мяу;2;right
+Salem;Here we are... The Old Gate of Whispers. Behind it is the next part of our journey.;0;left
+Tara;Is this... a real magic castle? Its energy is so vibrant in the air...;0;right
+Salem;It's not just a lock, it's a time mystery. To open it, you have to put the right shapes together - just like we practised. The harmony of the shapes reveals the key.;0;left
+Tara;Okay. I'll try. But... what if I make a mistake?;1;right
+Salem;Every mistake is also part of learning. But remember: shapes are not just geometry. They are a thought, an intention, a rhythm. Feel them.;0;left
+Tara;Understood. I'll start building it!;2;right
 end;;;;

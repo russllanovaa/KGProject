@@ -64,13 +64,13 @@ public class DialogView : MonoBehaviour
         {
             objLeft.SetActive(true);
             objRight.SetActive(false);
-            nameBox.rectTransform.anchoredPosition = new Vector2(-516, nameBox.rectTransform.anchoredPosition.y);
+            nameBox.rectTransform.anchoredPosition = new Vector2(-450, nameBox.rectTransform.anchoredPosition.y);
         }
         else if (position == "right")
         {
             objLeft.SetActive(false);
             objRight.SetActive(true);
-            nameBox.rectTransform.anchoredPosition = new Vector2(600, nameBox.rectTransform.anchoredPosition.y);
+            nameBox.rectTransform.anchoredPosition = new Vector2(700, nameBox.rectTransform.anchoredPosition.y);
         }
     }
 }
