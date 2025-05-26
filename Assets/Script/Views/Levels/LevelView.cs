@@ -14,6 +14,7 @@ public class LevelView : MonoBehaviour
     public Text pageTextRight;
     public Button prevButton;
     public Button nextButton;
+    public Button closeInfo;
     public GameObject book;
     public GameObject hint;
     public Text hints;
@@ -50,10 +51,8 @@ public class LevelView : MonoBehaviour
                 RectTransform bookRectTransform = book.GetComponent<RectTransform>();
                 if (bookRectTransform != null)
                 {
-                    bookRectTransform.anchoredPosition = Vector2.zero;
-                     book.transform.localPosition = Vector3.zero; 
-                     book.transform.position = Vector3.zero; 
-                    Debug.Log("Book window activated and moved to (0,0)");
+                    bookRectTransform.anchoredPosition = new Vector2(0, 100);
+                    Debug.Log("Book window moved up");
                 }
                 else
                 {
@@ -99,4 +98,8 @@ public class LevelView : MonoBehaviour
 
     public void SetLock(int index, bool state) => locks[index].SetActive(state);
     public void SetTimerText(string text) => timerText.text = text;
+
+    public void SetNext(bool active) => nextButton.gameObject.SetActive(active);
+    public void SetPrev(bool active) => prevButton.gameObject.SetActive(active);
+    public void SetClose(bool active) => closeInfo.gameObject.SetActive(active);
 }

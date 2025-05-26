@@ -1881,10 +1881,10 @@ RectTransform:
   - {fileID: 874233295}
   - {fileID: 1593996831}
   - {fileID: 652353496}
-  - {fileID: 1261065850}
   - {fileID: 721058914}
   - {fileID: 2098043398}
   - {fileID: 1593812308}
+  - {fileID: 1261065850}
   m_Father: {fileID: 1238209757}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -2132,6 +2132,7 @@ MonoBehaviour:
   pageTextRight: {fileID: 341002262}
   prevButton: {fileID: 721058915}
   nextButton: {fileID: 2098043399}
+  closeInfo: {fileID: 1261065851}
   book: {fileID: 765177002}
   hint: {fileID: 1482597252}
   hints: {fileID: 236052246}

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -43,11 +44,14 @@ public class LevelManager : MonoBehaviour
     {
         levelData = new LevelData();
         LoadPages();
-        UpdatePage();
+        //UpdatePage();
         view.ToggleBook(false);
         view.ToggleHint(false);
         view.OpenHint(false);
         unlockTheory(levelData.CurrentLevel);
+        view.SetNext(false);
+        view.SetPrev(false);
+        view.SetClose(false);
     }
     private void Awake() // Додаємо Awake для логіки сінглтона
     {
@@ -72,7 +76,25 @@ public class LevelManager : MonoBehaviour
 
     public void CloseInfo()
     {
-        view.ToggleBook(false);
+        string left = "";
+        string right = "";
+        view.SetNext(false);
+        view.SetPrev(false);
+        view.SetClose(false);
+        view.ShowPage(left, right, currentPage > 0, currentPage < pages.Length - 2);
+
+        if (animator != null)
+        {
+            animator.Play("CloseAnim", -1, 0f);
+            image.color = new Color(1, 1, 1, 1);
+            StartCoroutine(WaitForAnimationThenUpdateClose(true));
+
+
+        }
+        else
+        {
+            view.ToggleBook(false);
+        }
     }
     private void LoadPages()
     {
@@ -111,44 +133,123 @@ public class LevelManager : MonoBehaviour
 
     public void OnReadInformation()
     {
+        string left = "";
+        string right = "";
+        view.SetNext(false);
+        view.SetPrev(false);
+        view.SetClose(false);
+        view.ShowPage(left, right, currentPage > 0, currentPage < pages.Length - 2);
+        view.ToggleBook(true);
+
         if (animator != null)
         {
-            animator.Play("OpenAnim", -1, 0f); // Назва анімаційного кліпу
+            animator.Play("OpenAnim", -1, 0f); 
             image.color = new Color(1, 1, 1, 1);
-        }
+            StartCoroutine(WaitForAnimationThenUpdate(true)); 
 
-        UpdatePage();
-        view.ToggleBook(true);
+           
+        }
+        else
+        {
+            UpdatePageImmediately();
+        }
+        
     }
 
     public void OnPrev()
     {
-        if (currentPage > 0)
+        string left = "";
+        string right = "";
+        view.SetNext(false);
+        view.SetPrev(false);
+        view.SetClose(false);
+        view.ShowPage(left, right, currentPage > 0, currentPage < pages.Length - 2);
+
+        if (animator != null)
+        {
+            animator.Play("ChangeLeftAnim", -1, 0f); 
+            image.color = new Color(1, 1, 1, 1);
+            StartCoroutine(WaitForAnimationThenUpdateLeft(false)); 
+        }
+        else if (currentPage > 0)
         {
             currentPage--;
-            UpdatePage();
+            UpdatePageImmediately();
         }
     }
 
     public void OnNext()
     {
+        string left = "";
+        string right = "";
+        view.SetNext(false);
+        view.SetPrev(false);
+        view.SetClose(false);
+        view.ShowPage(left, right, currentPage > 0, currentPage < pages.Length - 2);
+
         if (animator != null)
         {
-            animator.Play("ChangeAnim", -1, 0f); // Назва анімаційного кліпу
+            animator.Play("ChangeAnim", -1, 0f); 
             image.color = new Color(1, 1, 1, 1);
+            StartCoroutine(WaitForAnimationThenUpdate(false)); 
         }
-        if (currentPage < pages.Length - 2)
+        else if (currentPage < pages.Length - 2)
         {
             currentPage++;
-            UpdatePage();
+            UpdatePageImmediately();
         }
     }
 
-    private void UpdatePage()
+    private void UpdatePageImmediately()
     {
         string left = pages[currentPage];
         string right = (currentPage + 1 < pages.Length) ? pages[currentPage + 1] : "";
         view.ShowPage(left, right, currentPage > 0, currentPage < pages.Length - 2);
+
+        view.SetNext(true);
+        view.SetPrev(true);
+        view.SetClose(true);
+    }
+
+    private IEnumerator WaitForAnimationThenUpdate(bool isOpening)
+    {
+        AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
+        float animationLength = stateInfo.length;
+        yield return new WaitForSeconds(animationLength);
+
+        if (!isOpening && currentPage < pages.Length - 2)
+        {
+            currentPage++;
+        }
+
+        UpdatePageImmediately();
+        
+    }
+
+    private IEnumerator WaitForAnimationThenUpdateLeft(bool isOpening)
+    {
+        AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
+        float animationLength = stateInfo.length;
+        yield return new WaitForSeconds(animationLength);
+
+        if (currentPage > 0)
+        {
+            currentPage--;
+        }
+
+        UpdatePageImmediately();
+
+    }
+
+    private IEnumerator WaitForAnimationThenUpdateClose(bool isOpening)
+    {
+        AnimatorStateInfo stateInfo = animator.GetCurrentAnimatorStateInfo(0);
+        float animationLength = stateInfo.length;
+        yield return new WaitForSeconds(animationLength);
+
+        view.ToggleBook(false);
+        // UpdatePageImmediately();
+
     }
 
     public void OnUnlockHint(int index)
