@@ -64,6 +64,7 @@ public class LockController : MonoBehaviour
 
     public void SubmitUserFigure(LineRenderer userDrawnFigure)
     {
+
         if (Model.IsGameFinished())
         {
             Debug.Log("Game already finished");
@@ -87,10 +88,12 @@ public class LockController : MonoBehaviour
 
         if (isMatch)
         {
+            SoundManager.Instance.PlaySound2D("sublevel_passed");
             StartCoroutine(FeedbackView.AnimateSuccess(transformedUserFigure.gameObject, currentData.TargetCenter, currentData.TargetSize));
         }
         else
         {
+            SoundManager.Instance.PlaySound2D("sublevel_failed");
             StartCoroutine(FeedbackView.AnimateFailure(transformedUserFigure.gameObject, "Shape doesn't fit!"));
         }
 

@@ -64,6 +64,7 @@ public class LevelManager2 : MonoBehaviour
 
     public void CloseInfo()
     {
+        SoundManager.Instance.PlaySound2D("page_turn");
         string left = "";
         string right = "";
         view.SetNext(false);
@@ -102,6 +103,7 @@ public class LevelManager2 : MonoBehaviour
 
     public void OnReadInformation()
     {
+        SoundManager.Instance.PlaySound2D("page_turn");
         string left = "";
         string right = "";
         view.SetNext(false);
@@ -127,6 +129,7 @@ public class LevelManager2 : MonoBehaviour
 
     public void OnPrev()
     {
+        SoundManager.Instance.PlaySound2D("page_turn");
         string left = "";
         string right = "";
         view.SetNext(false);
@@ -149,6 +152,7 @@ public class LevelManager2 : MonoBehaviour
 
     public void OnNext()
     {
+        SoundManager.Instance.PlaySound2D("page_turn");
         string left = "";
         string right = "";
         view.SetNext(false);

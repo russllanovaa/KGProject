@@ -18,7 +18,10 @@ public class SplashController : MonoBehaviour
 
     private void Start()
     {
+        MusicManager.Instance.PlayMusic("background");
+
         StartCoroutine(PlaySplashSequence());
+
     }
 
     private IEnumerator PlaySplashSequence()

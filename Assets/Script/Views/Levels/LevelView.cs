@@ -24,6 +24,7 @@ public class LevelView : MonoBehaviour
 
     public void ShowPage(string leftText, string rightText, bool canGoPrev, bool canGoNext)
     {
+       
         pageTextLeft.text = leftText;
         pageTextRight.text = rightText;
         prevButton.interactable = canGoPrev;
