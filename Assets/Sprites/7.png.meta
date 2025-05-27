@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d1f690db51c05a14b9976aab618301fd
+guid: 2fcbfb79cdaff65418412d5e70afc0da
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2556030499611663248
-    second: LockPentagon_0
+      213: 7028616704906629411
+    second: 7_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LockPentagon_0
+      name: 7_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 52
         y: 0
-        width: 1651
-        height: 1080
+        width: 938
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 07425939dc7278cd0800000000000000
-      internalID: -2556030499611663248
+      spriteID: 321165667a9aa8160800000000000000
+      internalID: 7028616704906629411
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      LockPentagon_0: -2556030499611663248
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

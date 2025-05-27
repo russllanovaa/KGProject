@@ -1,12 +1,6 @@
-Salem;Here we are..;0;left
-Tara;Is this... a real magic castle Its energy is so vibrant in the air...;0;right
-Salem;It's not just a lock, it's a time mystery. To open it, you have to put the right shapes together - just like we practised. The harmony of the shapes reveals the key.;0;left
-Tara;Okay. ;1;right
-end;;;;
-Salem;Here we are... The Old Gate of Whispers. Behind it is the next part of our journey.;0;left
-Tara;Is this... a real magic castle? Its energy is so vibrant in the air...;0;right
-Salem;It's not just a lock, it's a time mystery. To open it, you have to put the right shapes together - just like we practised. The harmony of the shapes reveals the key.;0;left
-Tara;Okay. I'll try. But... what if I make a mistake?;1;right
-Salem;Every mistake is also part of learning. But remember: shapes are not just geometry. They are a thought, an intention, a rhythm. Feel them.;0;left
-Tara;Understood. I'll start building it!;2;right
+Salem;Tara, the time has come. You have mastered the basics - lines, shapes, colours. But the true art of magic is not only knowledge, but understanding. The castle is waiting.;0;left
+Tara;The Castle of Light... I've read about it in old scrolls. Do they teach real magic there;0;right
+Salem;Yes, there you will learn the essence of shapes and movement, the secrets of fractals and the power of colour. But our path will not be easy, we will have to go through the forests of Illusions, the mountains of Symmetry.;0;left
+Tara;And each of the trials can be overcome only by... knowledge?;1;right
+Salem;That's right, my student. Magic is not magic. It is logic, observation and understanding of visual harmony.;0;left
 end;;;;

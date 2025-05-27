@@ -277,7 +277,7 @@ public class LevelManager : MonoBehaviour
         PlayerData.Instance.AddStepOfLevel();
         if (levelData.Progress > 3)
         {
-            GameManager.Instance.LoadSceneByIndex(7);
+            GameManager.Instance.LoadSceneByIndex(6);
         }
     }
 
