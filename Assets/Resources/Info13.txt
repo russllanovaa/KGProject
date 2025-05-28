@@ -1,0 +1,6 @@
+The Inscribed Square — The Circle’s Introverted Friend
+
+Its corners gently touch the circle, and it’s aligned with the coordinate axes like a good citizen.
+The side of this square is calculated as:
+side = radius * SQRT(2);
+Its corners lie at 45°, 135°, 225°, and 315° angles from the center (aka 90° apart because symmetry is fashionable).

@@ -1,1 +1,4 @@
-Забрати документи
+Pick a number of steps to divide the circle. 30+ is recommended unless you enjoy jagged, polygonal chaos. 
+
+angleStep = 2 * PI / steps; 
+  

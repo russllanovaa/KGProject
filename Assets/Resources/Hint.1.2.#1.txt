@@ -1,1 +1,13 @@
-Чесно
+ Coordinates are a spicy mix of + and −. 
+
+ Here’s the cheat sheet: 
+
+p1: x0 + half, y0 + half 
+
+p2: x0 + half, y0 − half 
+
+p3: x0 − half, y0 − half 
+
+p4: x0 − half, y0 + half 
+
+Now connect the dots and call it art. 

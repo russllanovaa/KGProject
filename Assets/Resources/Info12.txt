@@ -1,0 +1,6 @@
+The Circle — Geometry’s Drama Queen 
+It’s centered at C = (x0, y0) and has a radius r. 
+To summon it, use these ancient formulas: 
+x = x0 + r * cos(angle);   
+y = y0 + r * sin(angle); 
+To actually draw the circle (because one point won’t cut it), you’ll calculate these coordinates for many angles between 0 and 2π. Like, a lot of them. 

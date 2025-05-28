@@ -1,1 +1,8 @@
-Поплакати
+
+
+ In a loop: 
+
+angle = i * angleStep + PI / 2; 
+  
+
+And there you go — five glorious points, perfectly spaced and ready to be connected in a way that screams “I passed trigonometry.” 

@@ -1,0 +1,3 @@
+In this level, you’ll learn how to draw a circle, an inscribed square, and a regular pentagon, all snugly packed inside each other like some overly ambitious nesting dolls. 
+All shapes must share the same center and be drawn from the outside in, starting with the mighty circle. 
+Why are we doing this, you ask? Well, dear pixel apprentice, to learn: 

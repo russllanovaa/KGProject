@@ -1,0 +1,6 @@
+Color Changing 
+
+COLORRGB(255, 0, 0);   
+COLORHSV(0, 100, 100);   
+COLORCMY(0, 1, 1);   
+COLORLAB(50, 60, -40);   

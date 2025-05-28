@@ -1,0 +1,9 @@
+Arithmetic: +, -, *, /, % 
+ Comparisons: ==, !=, <, >, <=, >= 
+ Functions: COS(x), SIN(x), SQRT(x), TRANSFORM(matrix, point) 
+
+Pro Tips from the Tower 
+
+Always end your commands with a semicolon! 
+Every loop and condition block needs its ENDFOR, ENDIF, ENDWHILE. No exceptions. 
+Colors can be defined in multiple magical color spaces. 

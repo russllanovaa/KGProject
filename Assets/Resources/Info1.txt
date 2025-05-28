@@ -1,1 +1,9 @@
-По-друге, ти лох
+So, let's begin: 
+Core Concepts 
+Variables 
+
+LET INT x = 5;   
+LET FLOAT r = 3.14;   
+LET POINT p = POINT(100, 200); // a data type that represents a point on screen   
+LET ARRAY<INT> numbers = [1, 2, 3];   
+LET MATRIX m = MATRIX(1,0,0, 0,1,0); // matrix for transformations   

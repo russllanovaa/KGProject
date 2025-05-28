@@ -39,9 +39,14 @@ public class DialogueManager : MonoBehaviour
             Sprite mySprite = Resources.Load<Sprite>("Images/0"); // з Assets/Resources/Images/MyImage.png
             back.sprite = mySprite;
         }
-        else
+        else if (PlayerData.Instance.GetCurrentLevel()==1) 
         {
             Sprite mySprite = Resources.Load<Sprite>("Images/1"); // з Assets/Resources/Images/MyImage.png
+            back.sprite = mySprite;
+        }
+        else
+        {
+            Sprite mySprite = Resources.Load<Sprite>("Images/2"); // з Assets/Resources/Images/MyImage.png
             back.sprite = mySprite;
         }
 

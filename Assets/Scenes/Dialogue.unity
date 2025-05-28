@@ -799,10 +799,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterPoses:
-  - {fileID: -6586331518026479570, guid: f298106d2e8d92f4884201f3b3dd0768, type: 3}
-  - {fileID: 6545000131948739009, guid: 7aca53757c3a85e4c882838579efcc4d, type: 3}
   - {fileID: 4193401872600837013, guid: 14f03ba08cbb1ad4092d292b492d08a1, type: 3}
-  - {fileID: 7028616704906629411, guid: 2fcbfb79cdaff65418412d5e70afc0da, type: 3}
+  - {fileID: 6545000131948739009, guid: 7aca53757c3a85e4c882838579efcc4d, type: 3}
+  - {fileID: -6586331518026479570, guid: f298106d2e8d92f4884201f3b3dd0768, type: 3}
+  - {fileID: -4636343145361068845, guid: 6cce0a104f1ca044680607e895ce0a88, type: 3}
 --- !u!1 &891020966
 GameObject:
   m_ObjectHideFlags: 0

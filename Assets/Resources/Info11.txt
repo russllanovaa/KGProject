@@ -1,0 +1,3 @@
+How the coordinate system actually works (spoiler: it’s just x and y, not that deep) 
+How to calculate point coordinates using trigonometry (yes, sin and cos are back) 
+How to draw using STARTDRAW and DRAWTO (aka your new magical incantations) 

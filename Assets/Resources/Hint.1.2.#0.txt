@@ -1,1 +1,6 @@
-Я не знаю
+Pro Tip #1: 
+
+ Use half of the side length to compute the corners. For the first point: 
+
+x = x0 + side / 2;   
+y = y0 + side / 2; 

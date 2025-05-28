@@ -1,1 +1,14 @@
-Поплакати
+Okay, fine, we get it – you're lazy  
+There’s your pseudocode: 
+function DrawCircle(center, radius): pi = 3.1415 steps = 36 angleStep = 2.0 * pi / steps 
+i = 0 
+angle = 0.0 
+prev = point(center.X + cos(0.0) * radius, center.Y + sin(0.0) * radius) 
+drawTo(prev) 
+while i <= steps: 
+    angle = i * angleStep 
+    x = center.X + cos(angle) * radius 
+    y = center.Y + sin(angle) * radius 
+    next = point(x, y) 
+    drawTo(next) 
+    i = i + 1 

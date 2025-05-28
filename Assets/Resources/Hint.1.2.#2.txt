@@ -1,1 +1,13 @@
-Поплакати
+Well c’mon, It’s literally a square.. 
+There’s your pseudocode 
+function DrawSquare(center, size): 
+    half = size / 2.0 
+    p1 = point(center.X + half, center.Y + half)   // top-right 
+    p2 = point(center.X + half, center.Y - half)   // bottom-right 
+    p3 = point(center.X - half, center.Y - half)   // bottom-left 
+    p4 = point(center.X - half, center.Y + half)   // top-left 
+    drawTo(p1) 
+    drawTo(p2) 
+    drawTo(p3) 
+    drawTo(p4) 
+    drawTo(p1)  // close the square 

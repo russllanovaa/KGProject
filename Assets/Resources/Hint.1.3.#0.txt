@@ -1,1 +1,4 @@
-Абсолютно.
+To place the first vertex elegantly at the top, start with: 
+
+angle = PI / 2; 
+  

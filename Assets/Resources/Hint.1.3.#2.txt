@@ -1,1 +1,22 @@
-Поплакати
+This one’s understandable, I also struggled 
+There’s your pseudocode 
+function DrawPentagon(center, radius): 
+  pi = 3.1415 
+    sides = 5 
+    angleStep = -2.0 * pi / sides 
+    i = 0
+    x0 = center.X + cos(angle) * radius 
+    y0 = center.Y + sin(angle) * radius 
+    first = point(x0, y0) 
+    prev = first 
+    drawTo(prev) 
+    i = 1 
+    while i < sides: 
+        angle = i * angleStep + pi / 2 
+        x = center.X + cos(angle) * radius 
+        y = center.Y + sin(angle) * radius 
+        next = point(x, y) 
+        drawTo(next) 
+        prev = next 
+        i = i + 1 
+    drawTo(first)  // close the pentago

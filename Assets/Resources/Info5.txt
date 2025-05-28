@@ -1,0 +1,8 @@
+Drawing 
+Start Drawing 
+
+STARTDRAW; // starts a new figure   
+  
+Drawing Lines 
+
+DRAWTO(POINT(100, 200)); // if you're just starting the drawing, this point becomes the start   

@@ -1,1 +1,14 @@
-По-третє, ти лох
+Control Flow 
+Conditional IF Statement 
+IF (x > 10):   
+    DRAWTO(p);   
+ELSE:   
+    LET p = POINT(0, 0);   
+ENDIF // don’t forget your end-thingies   
+  
+FOR Loop 
+
+FOR (LET INT i = 0; i < 5; i = i + 1):   
+    DRAWTO(POINT(i * 10, i * 10));   
+ENDFOR // I’m not joking   
+ 

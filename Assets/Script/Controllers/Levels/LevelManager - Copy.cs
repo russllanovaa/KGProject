@@ -88,7 +88,7 @@ public class LevelManager2 : MonoBehaviour
     private void LoadPages()
     {
         //int info = PlayerData.Instance.GetAvailableInfo();
-        int info = 4;
+        int info = 15;
         pages = new string[info];
         for (int i = 0; i < info; i++)
         {

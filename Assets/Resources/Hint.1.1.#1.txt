@@ -1,1 +1,8 @@
-Виїхати з країни
+Inside a loop: 
+
+angle = i * angleStep;   
+x = x0 + cos(angle) * radius;   
+y = y0 + sin(angle) * radius; 
+  
+
+Boom. Magic. Circle summoned. 

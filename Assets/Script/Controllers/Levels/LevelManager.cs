@@ -101,7 +101,7 @@ public class LevelManager : MonoBehaviour
     {
 
         //int info = PlayerData.Instance.GetAvailableInfo();
-        int info = 4;
+        int info = 15;
         pages = new string[info];
         for (int i = 0; i < info; i++)
         {
@@ -261,9 +261,9 @@ public class LevelManager : MonoBehaviour
     {
         if (canUnlock)
         {
-            view.SetLock(index, false);
-            canUnlock = false;
-            timer = 0f;
+                view.SetLock(index, false);
+                canUnlock = false;
+                timer = 0f;
         }
     }
 

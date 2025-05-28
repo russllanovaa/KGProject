@@ -1,1 +1,13 @@
-По-четверте,
+WHILE Loop 
+LET INT i = 0;   
+WHILE (i < 3):   
+    DRAWTO(POINT(i * 50, 0));   
+    i = i + 1;   
+ENDWHILE // seriously   
+Functions 
+FUNCTION drawSquare(x, y):   
+    DRAWTO(POINT(x, y));   
+    DRAWTO(POINT(x+10, y));    
+    DRAWTO(POINT(x, y+10));   
+    DRAWTO(POINT(x, y));   
+ENDFUNCTION // I'm not making this up, okay?   

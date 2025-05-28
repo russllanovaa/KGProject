@@ -1,0 +1,2 @@
+You can call functions with parameters and return values with RETURN. 
+Recursion is allowed, up to 100 levels deep — don’t go summoning pixel demons, okay?

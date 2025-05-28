@@ -1,0 +1,8 @@
+The Regular Pentagon — The Fancy Diva of Shapes
+Equally spaced points, sharp edges, and a lot of drama.
+The angle between vertices is:
+angleStep = 2 * PI / 5;
+Each vertex is calculated just like for the circle:
+x = x0 + cos(angle) * radius;
+y = y0 + sin(angle) * radius;
+Happy drawing, brave shape-summoner. May your angles be accurate and your code be bug-free (ha, wishful thinking).

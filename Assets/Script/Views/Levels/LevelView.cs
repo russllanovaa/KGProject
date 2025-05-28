@@ -114,6 +114,8 @@ public class LevelView : MonoBehaviour
 
     public void OpenHint(bool active) => hintPlace.SetActive(active);
 
+    public bool IsItActive(int index) => locks[index].activeSelf;
+
     public void SetLock(int index, bool state) => locks[index].SetActive(state);
     public void SetTimerText(string text) => timerText.text = text;
 

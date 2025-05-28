@@ -1,6 +1,11 @@
-Salem;Tara, the time has come. You have mastered the basics - lines, shapes, colours. But the true art of magic is not only knowledge, but understanding. The castle is waiting.;0;left
-Tara;The Castle of Light... I've read about it in old scrolls. Do they teach real magic there;0;right
-Salem;Yes, there you will learn the essence of shapes and movement, the secrets of fractals and the power of colour. But our path will not be easy, we will have to go through the forests of Illusions, the mountains of Symmetry.;0;left
-Tara;And each of the trials can be overcome only by... knowledge?;1;right
-Salem;That's right, my student. Magic is not magic. It is logic, observation and understanding of visual harmony.;0;left
+Tara;Phew, what a beautiful day! I don’t feel like doing anything today.;2;right
+Salem;Meow;0;left
+Tara; What?! Salem, are you saying I’ve finally gathered enough strength and wisdom to journey to the Tower of the Grand Wizard, face his trials, and earn the title of Pixelmancer… ;0;right
+Tara;and that your time as my mentor is coming to an end, and you're super proud of everything I’ve accomplished?;1;right
+Salem;Meow meow.;0;left
+Tara;You’re telling me to be careful, because the road to the wizard’s tower is long and perilous, filled with challenges that will test my mind, strength, and courage…;0;right
+Tara;and I’ll need to remember everything you taught me and overcome every obstacle using the power of graphic magic?;0;right
+Salem;Meow.;0;left
+Tara;Okay that was uncalled for, Salem.;0;right
+Tara;But fine, I get it. It’s time for me to prove myself. I’ll show you your lessons weren’t wasted!;2;right
 end;;;;
