@@ -259,12 +259,22 @@ public class LevelManager : MonoBehaviour
 
     public void OnUnlockHint(int index)
     {
-        if (canUnlock)
+        if (!canUnlock) return;
+
+        // Перевірка, чи всі попередні елементи відкриті
+        for (int i = 0; i < index; i++)
         {
-                view.SetLock(index, false);
-                canUnlock = false;
-                timer = 0f;
+            if (view.IsItActive(i))
+            {
+                Debug.Log($"Не можна відкрити {index}, бо {i} ще закритий.");
+                return;
+            }
         }
+
+        // Відкриваємо поточний
+        view.SetLock(index, false);
+        canUnlock = false;
+        timer = 0f;
     }
 
     public void OnClickToPass()
